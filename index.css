@@ -1,0 +1,88 @@
+body {
+    margin: 0;
+    background: #1B244A;
+    width: 575px;
+    height: 385px;
+    /* top: -1135px;
+    left: -1996px; */
+}
+h3 {
+    font: verdana;
+    font-weight: 700;
+    font-size: 40px;
+    color: #EEEEEE;
+    text-align: center; 
+    margin-bottom: 20px;
+}
+h4{
+width: 155px;
+height: 120px;
+left: 82px;
+top: 125px;
+background: #080001;
+border-radius: 5px;
+margin: 10px;
+font: Cursed Timer ULiL;
+color: #F94F6D;
+font-weight: 400;
+font-size: 90px;
+line-height: 127px;
+text-align: center;
+
+}
+
+button{
+    box-sizing: border-box;
+/* position: absolute; */
+width: 45px;
+height: 45px;
+left: 192px;
+top: 271px;
+background: #1B244A;
+border: 2px solid #9AABD8;
+border-radius: 5px;
+font-family: 'Cursed Timer ULiL';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 28px;
+text-align: center;
+color: #9AABD8;
+}
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+.homebutton{
+    margin-top: 30px;
+    margin-left: 18px;
+}
+#newgame{
+    box-sizing: border-box;
+    border: 3px solid red;
+    border-radius: 2px;
+    width: 200px;
+    height: 45px;
+    color: red;
+    margin-top: 320px;
+    margin-left: -400px;
+}
+#xgame{
+    box-sizing: border-box;
+    border: 3px solid red;
+    border-radius: 2px;
+    width: 200px;
+    height: 45px;
+    color: red;
+    margin-top: 380px;
+    margin-left: -290px;
+}
+
+p{
+    font: verdana;
+    font-size: 50px;
+    margin-top: 430px;
+    margin-left: -290px;
+    color: aqua
+    
+}
